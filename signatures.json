@@ -1,1 +1,13 @@
-[]
+[
+ {
+  "family": "ML-proptest",
+  "minTones": 3,
+  "maxTones": 6,
+  "spacingLowHz": 100,
+  "spacingHighHz": 300,
+  "note": "prop test",
+  "hits": 1,
+  "source": "federation",
+  "toneHash": "proptest01"
+ }
+]
