@@ -1,1 +1,13 @@
-[]
+[
+ {
+  "family": "ML-deploytest",
+  "minTones": 3,
+  "maxTones": 6,
+  "spacingLowHz": 100,
+  "spacingHighHz": 300,
+  "note": "deploy test",
+  "hits": 1,
+  "source": "federation",
+  "toneHash": "deploytest01"
+ }
+]
