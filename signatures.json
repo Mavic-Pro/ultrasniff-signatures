@@ -86,6 +86,20 @@
   ]
  },
  {
+  "family": "Stockholm Central PA/VA pilot tone (EN 54 line supervision)",
+  "minTones": 1,
+  "maxTones": 3,
+  "spacingLowHz": 3900,
+  "spacingHighHz": 4135,
+  "note": "Continuous CW pilot tone of the Stockholm Central station public-address / voice-alarm (evacuation) system: an inaudible ~20 kHz tone injected on every loudspeaker line so the EN 54-16 controller can supervise line impedance and detect open/short faults. NOT a tracking beacon, carries no data. Field-identified 2026-08-22 (Pixel 11 Pro), heard identically inside McDonald's and Burger King in the station hall: 19983.0 Hz, std 0.08 Hz over 85 min (crystal-derived), no Doppler, no keying, random multipath fading only; secondary stable lines 15848.6 and 23882.6 Hz (outside the 18-22 kHz hunter band). The app cannot decode or classify it because there is nothing to decode: a bare carrier.",
+  "toneHash": "pa-va-pilot-sthlm-central-19983",
+  "hits": 17,
+  "source": "field-identified",
+  "toneSetHz": [
+   19983.0
+  ]
+ },
+ {
   "family": "ML-hop-9e15",
   "minTones": 5,
   "maxTones": 7,
