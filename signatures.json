@@ -11956,7 +11956,7 @@
   "spacingLowHz": 393.75,
   "spacingHighHz": 731.25,
   "note": "ML-discovered family, 4 recurrences",
-  "hits": 4,
+  "hits": 8,
   "source": "federation",
   "toneHash": "21a50c124c53",
   "modelVersion": "mel160-190e3a8425",
